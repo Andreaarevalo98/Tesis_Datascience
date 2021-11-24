@@ -1,0 +1,501 @@
+Usuario,Genero,Edad,Ciudad,Gasto_mes,Miembro_plus,Dispositivo,Tiempo_mes
+1,Hombre,35,Gijón,351.23,0,Movil,0.71
+2,Hombre,52,Valladolid,252.86,1,PC,1.08
+3,Mujer,18,Malaga,215.6,0,Movil,6.22
+4,Hombre,47,Alicante,345.93,0,PC,1.83
+5,Hombre,39,Madrid ,7.07,0,Movil,5.43
+6,Mujer,42,Valladolid,463.21,1,PC,3.25
+7,Hombre,39,Alicante,302.66,1,Movil,3.47
+8,Mujer,27,Alicante,474.33,0,Movil,4.46
+9,Mujer,58,Madrid ,445.93,0,PC,6.16
+10,Mujer,34,Palma,284.65,1,Movil,0.59
+11,Mujer,26,Cordoba,454.23,0,PC,6.86
+12,Hombre,19,Vigo,301.68,0,PC,3.43
+13,Mujer,31,Sevilla,214.07,1,Movil,3.95
+14,Hombre,36,Cordoba,223.17,0,PC,5.42
+15,Hombre,28,Alicante,403.41,0,PC,4.51
+16,Hombre,62,Murcia,37.73,0,Movil,4.38
+17,Hombre,63,Valencia,467.29,1,Movil,1.13
+18,Mujer,68,Zaragoza,364.67,1,PC,3.01
+19,Mujer,32,Barcelona,241.63,1,Movil,2.3
+20,Hombre,21,Bilbao,357.42,1,Movil,3.71
+21,Hombre,44,Las Palamas de GC,460.99,0,Movil,3.36
+22,Mujer,65,Valencia,254.02,0,Movil,6.26
+23,Mujer,46,Malaga,403.1,0,PC,4.88
+24,Hombre,23,Valladolid,438.0,0,PC,4.72
+25,Hombre,68,Las Palamas de GC,417.44,0,PC,6.37
+26,Hombre,56,Valencia,97.98,0,Movil,4.05
+27,Mujer,33,Zaragoza,317.4,1,Movil,6.92
+28,Mujer,53,Las Palamas de GC,111.51,0,Movil,3.49
+29,Hombre,23,Vigo,314.78,1,Movil,3.98
+30,Hombre,69,Malaga,335.83,1,PC,3.74
+31,Hombre,61,Barcelona,165.15,0,Movil,0.62
+32,Mujer,69,Zaragoza,70.26,1,Movil,1.23
+33,Mujer,57,Bilbao,424.08,0,PC,4.24
+34,Hombre,22,Zaragoza,31.64,0,PC,3.15
+35,Hombre,50,Valencia,106.81,0,Movil,5.29
+36,Mujer,64,Zaragoza,48.47,0,Movil,0.91
+37,Hombre,41,Vigo,358.99,1,PC,5.98
+38,Hombre,31,Las Palamas de GC,91.98,1,PC,3.1
+39,Mujer,18,Malaga,14.23,1,PC,5.15
+40,Mujer,53,Palma,418.19,0,Movil,4.75
+41,Hombre,28,Murcia,91.18,0,Movil,1.72
+42,Mujer,39,Madrid ,64.29,1,PC,4.03
+43,Hombre,18,Valladolid,260.93,1,Movil,4.67
+44,Mujer,50,Vigo,408.62,1,Movil,3.92
+45,Mujer,28,Las Palamas de GC,498.0,1,PC,1.47
+46,Mujer,67,Vigo,48.02,1,PC,1.83
+47,Mujer,30,Alicante,369.69,1,Movil,3.33
+48,Hombre,59,Valencia,358.3,1,Movil,1.18
+49,Mujer,42,Sevilla,76.97,1,PC,6.87
+50,Hombre,54,Madrid ,292.22,0,PC,3.73
+51,Hombre,62,Zaragoza,202.16,1,Movil,5.26
+52,Mujer,45,Madrid ,377.98,0,Movil,5.02
+53,Mujer,25,Malaga,106.17,1,PC,6.4
+54,Hombre,19,Valencia,369.12,1,PC,5.49
+55,Mujer,35,Valencia,297.92,0,PC,6.2
+56,Mujer,20,Palma,310.78,0,PC,3.18
+57,Mujer,35,Malaga,78.5,0,Movil,2.14
+58,Mujer,32,Valencia,213.45,0,PC,1.89
+59,Mujer,65,Zaragoza,27.61,1,PC,1.11
+60,Hombre,27,Palma,233.85,1,PC,4.03
+61,Mujer,56,Barcelona,304.69,0,Movil,5.69
+62,Mujer,41,Vigo,320.93,1,Movil,3.58
+63,Mujer,60,Palma,97.23,1,PC,5.39
+64,Hombre,63,Valladolid,427.14,0,PC,1.19
+65,Mujer,66,Cordoba,417.0,1,Movil,4.46
+66,Hombre,50,Barcelona,481.06,0,PC,4.1
+67,Hombre,22,Vigo,307.08,0,PC,4.64
+68,Hombre,70,Palma,485.97,1,PC,6.82
+69,Hombre,42,Madrid ,146.44,1,PC,2.35
+70,Hombre,32,Madrid ,11.3,1,Movil,5.11
+71,Hombre,69,Bilbao,45.05,0,PC,1.98
+72,Hombre,66,Palma,344.03,1,PC,5.79
+73,Hombre,27,Vigo,298.71,0,Movil,6.44
+74,Mujer,32,Palma,240.04,1,Movil,6.98
+75,Hombre,23,Cordoba,379.63,1,PC,1.22
+76,Mujer,46,Malaga,120.09,1,PC,3.46
+77,Mujer,65,Valladolid,61.18,1,PC,5.94
+78,Mujer,42,Zaragoza,395.55,1,Movil,2.99
+79,Mujer,69,Palma,359.23,1,Movil,5.61
+80,Mujer,54,Madrid ,103.49,1,Movil,6.38
+81,Mujer,27,Valladolid,120.95,1,PC,6.37
+82,Hombre,18,Murcia,354.11,0,Movil,3.1
+83,Hombre,39,Madrid ,107.39,0,Movil,4.27
+84,Hombre,58,Sevilla,366.78,1,PC,2.32
+85,Mujer,64,Bilbao,424.99,0,PC,1.05
+86,Hombre,29,Zaragoza,190.17,1,PC,1.27
+87,Hombre,70,Palma,490.79,1,Movil,6.07
+88,Hombre,26,Sevilla,368.77,0,PC,5.38
+89,Mujer,65,Vigo,236.64,1,Movil,0.69
+90,Mujer,26,Barcelona,256.17,0,Movil,2.55
+91,Hombre,52,Valencia,427.69,1,PC,2.43
+92,Hombre,59,Alicante,406.95,1,Movil,1.49
+93,Hombre,60,Barcelona,210.83,0,PC,6.55
+94,Mujer,25,Madrid ,439.18,1,Movil,5.01
+95,Hombre,45,Zaragoza,79.62,1,PC,5.94
+96,Hombre,36,Cordoba,241.08,1,Movil,4.66
+97,Mujer,64,Cordoba,497.16,1,Movil,0.82
+98,Mujer,36,Malaga,184.17,1,Movil,6.34
+99,Mujer,56,Valencia,35.65,0,PC,3.98
+100,Hombre,43,Barcelona,355.23,1,PC,2.06
+101,Hombre,44,Murcia,109.33,1,PC,4.84
+102,Mujer,44,Sevilla,392.93,1,PC,4.39
+103,Hombre,61,Malaga,335.64,0,PC,1.68
+104,Mujer,37,Malaga,88.75,0,Movil,2.08
+105,Hombre,62,Malaga,399.59,1,PC,1.12
+106,Mujer,58,Barcelona,205.97,1,PC,5.94
+107,Mujer,45,Las Palamas de GC,291.06,1,Movil,6.99
+108,Hombre,55,Las Palamas de GC,333.15,0,PC,1.1
+109,Hombre,19,Las Palamas de GC,85.77,0,PC,2.58
+110,Hombre,48,Valencia,310.82,0,PC,3.34
+111,Mujer,54,Malaga,58.95,0,PC,0.64
+112,Mujer,18,Zaragoza,225.35,0,Movil,2.99
+113,Hombre,63,Gijón,247.1,1,Movil,2.66
+114,Mujer,65,Alicante,334.62,1,Movil,1.89
+115,Hombre,36,Valladolid,43.74,1,Movil,2.29
+116,Mujer,61,Las Palamas de GC,163.7,1,Movil,4.9
+117,Hombre,41,Madrid ,31.98,1,PC,2.8
+118,Mujer,57,Bilbao,9.77,0,PC,2.6
+119,Mujer,66,Sevilla,446.21,0,Movil,3.15
+120,Hombre,26,Gijón,168.42,1,Movil,1.12
+121,Hombre,28,Valladolid,280.37,0,PC,3.87
+122,Mujer,47,Malaga,299.99,0,PC,5.49
+123,Mujer,21,Alicante,207.9,0,PC,5.75
+124,Mujer,40,Gijón,471.12,0,PC,6.59
+125,Hombre,35,Cordoba,22.61,1,PC,5.39
+126,Mujer,27,Las Palamas de GC,323.67,1,PC,2.0
+127,Hombre,49,Bilbao,279.13,1,Movil,6.38
+128,Hombre,63,Murcia,112.37,0,Movil,2.05
+129,Hombre,56,Malaga,187.26,0,PC,2.23
+130,Hombre,47,Bilbao,244.33,0,Movil,2.85
+131,Mujer,38,Madrid ,27.68,0,Movil,4.21
+132,Hombre,22,Valladolid,158.31,0,PC,1.72
+133,Mujer,49,Vigo,44.65,1,PC,1.8
+134,Mujer,32,Las Palamas de GC,228.6,0,PC,0.66
+135,Mujer,39,Sevilla,468.71,1,Movil,4.89
+136,Hombre,33,Barcelona,454.09,0,PC,1.31
+137,Hombre,18,Valladolid,39.79,0,PC,3.66
+138,Hombre,56,Alicante,328.57,0,Movil,4.22
+139,Mujer,48,Murcia,20.28,0,Movil,0.89
+140,Mujer,37,Palma,306.9,1,PC,1.76
+141,Mujer,65,Zaragoza,311.57,0,PC,4.69
+142,Hombre,38,Valencia,437.52,1,PC,3.19
+143,Hombre,58,Barcelona,210.14,1,Movil,6.74
+144,Mujer,31,Gijón,102.35,0,PC,5.35
+145,Mujer,62,Cordoba,279.78,1,PC,6.12
+146,Hombre,53,Vigo,177.88,1,PC,4.14
+147,Hombre,48,Madrid ,372.48,1,Movil,5.48
+148,Hombre,41,Madrid ,52.82,0,PC,5.03
+149,Mujer,32,Malaga,211.19,0,Movil,3.56
+150,Mujer,21,Murcia,77.53,1,PC,0.55
+151,Mujer,25,Gijón,129.39,1,Movil,6.5
+152,Mujer,65,Barcelona,494.25,0,Movil,2.5
+153,Mujer,36,Sevilla,369.88,0,PC,5.85
+154,Hombre,33,Bilbao,242.72,0,Movil,4.08
+155,Mujer,34,Madrid ,153.23,0,Movil,5.98
+156,Mujer,57,Sevilla,474.54,1,Movil,2.25
+157,Mujer,57,Valencia,480.78,1,Movil,5.02
+158,Mujer,69,Barcelona,217.85,1,PC,2.24
+159,Hombre,24,Malaga,313.3,1,Movil,0.62
+160,Hombre,35,Valladolid,63.71,0,Movil,6.03
+161,Hombre,41,Valencia,471.68,1,PC,1.35
+162,Hombre,46,Las Palamas de GC,37.46,0,PC,1.32
+163,Hombre,37,Vigo,360.13,0,PC,1.77
+164,Hombre,65,Palma,347.79,0,Movil,3.53
+165,Hombre,37,Cordoba,214.44,1,Movil,5.28
+166,Hombre,55,Cordoba,397.98,0,PC,1.95
+167,Mujer,69,Sevilla,254.66,1,PC,4.58
+168,Hombre,65,Vigo,474.51,0,PC,3.41
+169,Mujer,28,Valencia,441.13,0,PC,3.73
+170,Hombre,35,Gijón,119.98,0,PC,3.66
+171,Mujer,48,Cordoba,319.07,0,PC,3.22
+172,Hombre,69,Sevilla,397.15,1,PC,3.04
+173,Mujer,69,Madrid ,441.3,1,PC,3.37
+174,Hombre,58,Malaga,240.4,0,Movil,1.55
+175,Mujer,56,Bilbao,371.57,0,PC,5.44
+176,Mujer,36,Palma,352.14,0,Movil,1.67
+177,Mujer,44,Murcia,426.04,0,PC,2.93
+178,Mujer,55,Bilbao,216.62,1,PC,5.74
+179,Mujer,49,Bilbao,16.18,1,PC,2.47
+180,Mujer,30,Cordoba,499.09,1,Movil,5.32
+181,Hombre,47,Vigo,452.17,0,Movil,3.18
+182,Hombre,68,Gijón,224.62,1,PC,4.07
+183,Hombre,51,Vigo,358.24,1,PC,1.44
+184,Hombre,37,Vigo,18.08,1,PC,6.43
+185,Hombre,26,Cordoba,114.18,1,PC,2.63
+186,Mujer,56,Malaga,245.72,1,Movil,2.01
+187,Hombre,36,Las Palamas de GC,214.74,0,PC,5.72
+188,Hombre,69,Bilbao,287.18,1,PC,4.66
+189,Hombre,61,Alicante,232.12,1,PC,6.21
+190,Hombre,62,Barcelona,258.94,1,Movil,6.04
+191,Mujer,49,Gijón,146.63,0,PC,2.83
+192,Hombre,62,Gijón,42.85,0,PC,4.06
+193,Mujer,25,Sevilla,102.68,0,Movil,3.56
+194,Mujer,61,Vigo,155.46,1,PC,1.09
+195,Hombre,32,Murcia,457.91,1,Movil,5.19
+196,Mujer,34,Valladolid,375.06,1,PC,6.93
+197,Mujer,60,Gijón,458.98,0,PC,6.01
+198,Hombre,66,Vigo,85.55,0,PC,6.15
+199,Hombre,33,Madrid ,145.19,1,Movil,1.86
+200,Mujer,45,Cordoba,95.57,0,Movil,6.36
+201,Hombre,60,Vigo,285.48,1,PC,4.9
+202,Hombre,36,Zaragoza,483.53,1,Movil,2.19
+203,Mujer,56,Bilbao,8.88,0,Movil,1.68
+204,Mujer,52,Valencia,358.02,0,PC,5.96
+205,Mujer,66,Valencia,72.5,1,Movil,4.31
+206,Hombre,31,Sevilla,21.18,1,Movil,3.42
+207,Hombre,31,Las Palamas de GC,28.64,0,Movil,0.79
+208,Mujer,45,Murcia,409.61,0,PC,2.79
+209,Hombre,64,Alicante,239.71,0,PC,2.24
+210,Mujer,18,Palma,174.48,0,Movil,6.8
+211,Mujer,53,Valladolid,409.34,0,PC,2.47
+212,Hombre,23,Las Palamas de GC,424.14,1,PC,2.59
+213,Mujer,28,Cordoba,226.65,1,Movil,2.57
+214,Hombre,32,Barcelona,485.53,1,PC,2.63
+215,Hombre,46,Sevilla,393.67,0,PC,1.85
+216,Mujer,61,Valladolid,219.55,0,Movil,2.47
+217,Hombre,63,Murcia,398.36,0,Movil,3.71
+218,Mujer,59,Murcia,294.14,0,Movil,6.98
+219,Hombre,24,Vigo,195.04,1,Movil,1.17
+220,Mujer,18,Valladolid,160.79,0,PC,3.23
+221,Hombre,70,Sevilla,260.41,0,Movil,3.0
+222,Hombre,21,Valencia,487.74,0,Movil,6.13
+223,Mujer,45,Barcelona,316.48,1,Movil,5.57
+224,Hombre,50,Zaragoza,411.9,1,PC,6.35
+225,Hombre,19,Barcelona,391.85,0,Movil,1.34
+226,Mujer,31,Cordoba,235.56,1,PC,5.86
+227,Mujer,45,Cordoba,441.73,0,PC,4.05
+228,Hombre,35,Alicante,314.61,1,PC,6.81
+229,Mujer,67,Malaga,27.36,0,Movil,2.7
+230,Hombre,23,Vigo,24.97,0,PC,5.12
+231,Hombre,37,Alicante,12.14,1,Movil,2.66
+232,Hombre,21,Vigo,102.89,1,Movil,5.59
+233,Mujer,42,Sevilla,20.51,0,Movil,4.06
+234,Hombre,20,Cordoba,341.53,0,PC,6.95
+235,Hombre,36,Alicante,115.21,0,Movil,2.8
+236,Mujer,52,Las Palamas de GC,45.7,1,Movil,6.16
+237,Hombre,25,Zaragoza,61.26,1,PC,2.45
+238,Mujer,63,Gijón,340.27,1,PC,4.96
+239,Mujer,46,Cordoba,425.85,0,PC,6.83
+240,Hombre,53,Alicante,294.39,1,Movil,6.36
+241,Mujer,41,Las Palamas de GC,298.96,1,PC,6.45
+242,Hombre,19,Valencia,331.05,1,PC,2.67
+243,Mujer,69,Vigo,357.36,0,PC,3.76
+244,Mujer,68,Cordoba,197.33,0,PC,4.8
+245,Hombre,21,Valencia,49.93,1,PC,2.02
+246,Hombre,41,Bilbao,12.48,0,PC,3.62
+247,Hombre,66,Malaga,354.7,1,PC,0.72
+248,Mujer,54,Palma,126.84,0,Movil,4.2
+249,Mujer,31,Alicante,311.25,0,PC,3.8
+250,Mujer,63,Cordoba,143.43,1,PC,3.16
+251,Mujer,65,Zaragoza,491.54,1,Movil,3.22
+252,Hombre,48,Valencia,397.6,1,Movil,3.96
+253,Mujer,53,Valladolid,108.12,1,PC,5.33
+254,Hombre,48,Alicante,302.42,1,Movil,6.97
+255,Hombre,42,Palma,433.62,1,PC,6.43
+256,Hombre,49,Zaragoza,487.66,0,PC,2.44
+257,Mujer,54,Zaragoza,7.47,0,PC,4.23
+258,Mujer,69,Madrid ,333.83,0,PC,3.09
+259,Hombre,29,Barcelona,345.2,0,Movil,6.05
+260,Hombre,39,Alicante,433.11,1,PC,5.43
+261,Mujer,36,Alicante,120.65,0,Movil,4.85
+262,Hombre,67,Gijón,267.59,1,Movil,2.39
+263,Hombre,28,Alicante,185.5,1,Movil,6.01
+264,Hombre,31,Malaga,495.91,0,PC,5.52
+265,Hombre,36,Barcelona,345.97,0,PC,5.76
+266,Mujer,57,Valladolid,457.6,0,Movil,4.27
+267,Mujer,61,Barcelona,236.12,0,Movil,5.73
+268,Hombre,57,Bilbao,21.88,1,Movil,1.08
+269,Mujer,57,Las Palamas de GC,376.99,0,Movil,4.57
+270,Hombre,53,Murcia,393.67,0,PC,5.57
+271,Mujer,29,Gijón,311.6,1,Movil,1.47
+272,Hombre,59,Valencia,105.26,0,Movil,4.23
+273,Mujer,64,Las Palamas de GC,191.89,0,PC,1.41
+274,Mujer,39,Alicante,383.47,1,PC,3.54
+275,Hombre,45,Valencia,264.34,1,Movil,5.34
+276,Hombre,62,Madrid ,399.4,1,PC,2.34
+277,Hombre,58,Valencia,67.15,0,PC,5.77
+278,Hombre,30,Las Palamas de GC,334.27,0,Movil,6.79
+279,Mujer,68,Malaga,56.1,1,Movil,6.28
+280,Hombre,29,Malaga,357.37,0,Movil,6.9
+281,Hombre,39,Cordoba,433.15,0,PC,3.42
+282,Hombre,47,Zaragoza,220.0,1,Movil,6.33
+283,Hombre,27,Las Palamas de GC,115.38,1,PC,6.14
+284,Mujer,61,Gijón,171.46,1,Movil,6.36
+285,Mujer,54,Bilbao,95.71,1,PC,3.93
+286,Mujer,53,Sevilla,230.24,0,PC,5.2
+287,Hombre,31,Sevilla,234.05,1,Movil,6.72
+288,Hombre,29,Zaragoza,356.31,0,PC,1.88
+289,Mujer,28,Malaga,347.97,1,PC,1.19
+290,Hombre,29,Zaragoza,369.48,0,PC,1.73
+291,Mujer,56,Alicante,432.47,0,PC,5.61
+292,Hombre,33,Barcelona,58.31,0,Movil,5.17
+293,Mujer,27,Bilbao,281.58,0,PC,6.72
+294,Mujer,52,Palma,28.62,1,Movil,6.09
+295,Mujer,22,Las Palamas de GC,416.24,1,PC,3.66
+296,Hombre,68,Sevilla,421.21,1,PC,6.44
+297,Mujer,48,Alicante,493.99,1,PC,3.4
+298,Mujer,62,Palma,139.82,0,Movil,1.91
+299,Mujer,68,Cordoba,304.08,0,Movil,6.18
+300,Hombre,51,Murcia,83.51,1,PC,6.06
+301,Hombre,43,Cordoba,11.36,1,PC,5.81
+302,Hombre,22,Valencia,377.33,0,PC,1.8
+303,Hombre,45,Zaragoza,366.41,1,PC,5.45
+304,Hombre,43,Barcelona,254.78,1,Movil,0.76
+305,Hombre,52,Malaga,289.24,0,PC,6.16
+306,Mujer,48,Valladolid,121.74,0,PC,6.29
+307,Hombre,49,Sevilla,413.51,1,Movil,4.93
+308,Hombre,36,Sevilla,404.37,1,Movil,3.04
+309,Hombre,33,Valencia,387.61,1,PC,2.45
+310,Hombre,56,Bilbao,195.46,1,Movil,6.32
+311,Hombre,61,Madrid ,435.75,0,Movil,6.23
+312,Mujer,33,Las Palamas de GC,173.4,0,PC,1.7
+313,Mujer,63,Cordoba,170.54,0,PC,1.81
+314,Mujer,54,Zaragoza,471.68,0,PC,1.89
+315,Hombre,32,Valencia,197.46,1,Movil,6.98
+316,Mujer,67,Malaga,341.01,0,Movil,6.54
+317,Hombre,48,Palma,140.74,0,Movil,5.3
+318,Mujer,60,Sevilla,417.37,0,Movil,4.61
+319,Mujer,29,Zaragoza,107.81,0,PC,4.56
+320,Mujer,61,Palma,327.02,0,Movil,3.51
+321,Hombre,51,Valladolid,31.17,0,Movil,1.81
+322,Mujer,45,Las Palamas de GC,325.99,0,PC,4.06
+323,Mujer,40,Sevilla,337.99,0,Movil,1.73
+324,Mujer,18,Murcia,124.82,1,PC,2.19
+325,Mujer,64,Alicante,151.24,0,PC,5.73
+326,Hombre,62,Madrid ,319.87,0,PC,2.12
+327,Hombre,48,Murcia,397.98,1,PC,5.11
+328,Mujer,20,Murcia,437.97,0,PC,5.66
+329,Mujer,25,Las Palamas de GC,285.68,0,PC,2.35
+330,Hombre,38,Las Palamas de GC,21.29,1,PC,1.91
+331,Hombre,56,Alicante,396.5,1,Movil,3.96
+332,Mujer,43,Palma,284.88,0,Movil,6.97
+333,Hombre,36,Valencia,369.72,0,Movil,4.94
+334,Hombre,50,Valencia,167.2,0,PC,5.43
+335,Hombre,61,Malaga,187.85,0,PC,1.6
+336,Hombre,30,Gijón,288.09,1,Movil,6.51
+337,Hombre,34,Las Palamas de GC,331.19,0,PC,3.19
+338,Mujer,53,Zaragoza,130.59,1,PC,6.72
+339,Hombre,50,Sevilla,356.82,0,PC,4.19
+340,Mujer,20,Las Palamas de GC,386.84,1,Movil,2.98
+341,Mujer,64,Alicante,357.09,1,PC,4.15
+342,Hombre,30,Vigo,261.12,1,PC,1.65
+343,Mujer,55,Bilbao,434.86,1,Movil,5.99
+344,Hombre,49,Bilbao,455.57,0,PC,5.93
+345,Mujer,64,Cordoba,105.94,0,PC,6.45
+346,Hombre,57,Palma,495.32,0,Movil,5.26
+347,Mujer,56,Gijón,136.63,0,PC,3.94
+348,Hombre,66,Malaga,486.27,1,Movil,5.18
+349,Hombre,45,Gijón,87.22,0,Movil,4.6
+350,Hombre,22,Alicante,255.88,1,PC,4.72
+351,Hombre,64,Murcia,266.49,0,PC,6.31
+352,Hombre,44,Malaga,239.56,0,Movil,4.33
+353,Mujer,34,Las Palamas de GC,313.96,1,Movil,2.72
+354,Hombre,61,Cordoba,133.18,1,PC,1.1
+355,Hombre,62,Malaga,419.8,1,Movil,2.09
+356,Mujer,57,Valladolid,107.2,1,Movil,6.96
+357,Mujer,30,Gijón,333.55,1,Movil,3.11
+358,Mujer,35,Alicante,334.03,1,PC,6.8
+359,Mujer,69,Vigo,282.96,0,Movil,4.53
+360,Mujer,43,Bilbao,145.73,1,PC,4.58
+361,Mujer,40,Vigo,138.07,0,Movil,1.07
+362,Hombre,40,Madrid ,442.36,0,PC,3.43
+363,Hombre,68,Sevilla,346.96,1,PC,5.47
+364,Hombre,25,Gijón,109.69,0,PC,2.04
+365,Mujer,45,Vigo,214.8,0,PC,5.47
+366,Hombre,34,Bilbao,324.46,0,Movil,2.83
+367,Hombre,48,Barcelona,182.66,0,Movil,1.61
+368,Hombre,62,Gijón,162.03,1,PC,4.13
+369,Mujer,20,Valencia,285.56,1,PC,0.91
+370,Mujer,49,Zaragoza,415.78,0,Movil,3.29
+371,Mujer,33,Valencia,127.06,1,PC,3.04
+372,Hombre,59,Valencia,92.77,1,Movil,6.74
+373,Hombre,69,Murcia,136.94,0,PC,4.33
+374,Hombre,18,Murcia,341.11,1,PC,2.24
+375,Hombre,33,Bilbao,253.8,1,Movil,3.17
+376,Hombre,38,Gijón,44.7,1,PC,4.44
+377,Mujer,51,Bilbao,186.69,1,PC,2.17
+378,Hombre,67,Las Palamas de GC,266.26,1,Movil,6.51
+379,Hombre,46,Vigo,231.16,0,Movil,4.72
+380,Mujer,42,Valladolid,29.35,0,Movil,6.92
+381,Hombre,23,Gijón,257.01,0,PC,5.01
+382,Hombre,66,Cordoba,98.02,0,PC,1.96
+383,Hombre,25,Alicante,121.21,1,PC,2.77
+384,Mujer,49,Gijón,208.99,0,Movil,6.23
+385,Mujer,24,Murcia,312.65,0,Movil,1.71
+386,Hombre,44,Bilbao,12.18,1,Movil,0.91
+387,Hombre,21,Zaragoza,411.45,1,PC,4.52
+388,Hombre,66,Sevilla,83.68,0,PC,2.63
+389,Mujer,49,Vigo,171.5,1,Movil,5.49
+390,Mujer,20,Murcia,431.93,1,Movil,6.64
+391,Hombre,52,Madrid ,228.2,0,PC,4.72
+392,Hombre,30,Murcia,277.77,1,Movil,4.81
+393,Hombre,27,Valencia,443.53,1,Movil,5.97
+394,Hombre,41,Cordoba,80.3,0,Movil,0.66
+395,Hombre,56,Barcelona,73.31,1,Movil,1.2
+396,Mujer,31,Cordoba,457.16,0,PC,5.92
+397,Mujer,49,Gijón,294.22,0,Movil,4.92
+398,Hombre,70,Malaga,498.37,0,Movil,1.12
+399,Mujer,31,Valladolid,177.92,1,PC,1.36
+400,Mujer,43,Valencia,21.14,0,Movil,3.8
+401,Hombre,68,Zaragoza,117.79,1,PC,4.09
+402,Mujer,37,Alicante,77.49,1,PC,6.76
+403,Mujer,43,Valencia,162.46,1,Movil,3.27
+404,Mujer,51,Murcia,279.76,0,PC,3.31
+405,Hombre,68,Alicante,156.84,1,PC,5.21
+406,Hombre,60,Palma,451.62,1,Movil,4.5
+407,Mujer,31,Alicante,344.39,0,PC,3.74
+408,Mujer,61,Alicante,35.83,0,PC,4.71
+409,Hombre,30,Malaga,254.44,0,PC,5.18
+410,Hombre,70,Bilbao,154.37,1,Movil,1.78
+411,Mujer,49,Gijón,12.04,0,PC,6.72
+412,Hombre,55,Zaragoza,118.32,0,PC,6.69
+413,Hombre,47,Murcia,124.45,1,Movil,5.95
+414,Hombre,64,Zaragoza,183.39,0,PC,1.87
+415,Mujer,54,Alicante,363.0,1,Movil,2.25
+416,Hombre,68,Malaga,372.72,1,Movil,3.24
+417,Mujer,28,Barcelona,101.95,0,Movil,3.31
+418,Mujer,30,Sevilla,142.69,0,Movil,3.95
+419,Mujer,65,Alicante,372.48,1,PC,3.86
+420,Hombre,30,Bilbao,498.17,1,Movil,1.56
+421,Mujer,68,Barcelona,288.47,0,Movil,0.71
+422,Hombre,70,Murcia,131.38,1,Movil,4.05
+423,Mujer,58,Las Palamas de GC,270.7,0,PC,2.69
+424,Hombre,50,Cordoba,165.34,0,PC,4.83
+425,Mujer,64,Murcia,234.58,0,Movil,6.26
+426,Hombre,48,Murcia,230.48,0,Movil,2.49
+427,Hombre,22,Bilbao,286.33,0,Movil,4.92
+428,Mujer,61,Madrid ,14.19,0,PC,6.62
+429,Mujer,19,Valencia,224.25,1,Movil,6.43
+430,Mujer,68,Malaga,346.97,1,PC,5.35
+431,Mujer,64,Cordoba,450.99,0,Movil,5.07
+432,Hombre,40,Sevilla,437.35,0,PC,3.23
+433,Hombre,44,Palma,199.66,1,PC,1.29
+434,Hombre,43,Zaragoza,368.64,1,Movil,4.42
+435,Hombre,35,Sevilla,116.95,0,PC,1.75
+436,Mujer,26,Cordoba,406.36,0,PC,4.66
+437,Mujer,67,Vigo,430.85,1,Movil,1.64
+438,Mujer,68,Cordoba,470.35,1,PC,3.77
+439,Hombre,61,Sevilla,226.19,1,PC,2.07
+440,Hombre,49,Valladolid,154.4,0,PC,4.32
+441,Mujer,58,Palma,84.16,0,Movil,4.29
+442,Hombre,67,Valladolid,208.12,1,Movil,0.72
+443,Mujer,57,Valencia,253.66,0,Movil,1.09
+444,Hombre,60,Malaga,56.24,1,PC,5.55
+445,Mujer,54,Vigo,78.21,0,Movil,5.3
+446,Hombre,39,Valladolid,328.21,1,PC,1.59
+447,Hombre,46,Malaga,397.23,1,Movil,6.18
+448,Hombre,68,Zaragoza,228.06,0,PC,1.62
+449,Mujer,58,Gijón,238.3,0,Movil,3.76
+450,Mujer,31,Valladolid,460.91,1,Movil,5.89
+451,Mujer,60,Zaragoza,236.51,0,Movil,4.04
+452,Mujer,33,Zaragoza,365.61,0,PC,1.21
+453,Hombre,50,Vigo,258.62,0,PC,4.83
+454,Hombre,34,Murcia,305.8,1,PC,0.77
+455,Mujer,26,Murcia,199.18,0,Movil,2.76
+456,Mujer,70,Madrid ,393.25,0,PC,6.02
+457,Hombre,45,Valencia,264.66,0,Movil,0.95
+458,Mujer,21,Las Palamas de GC,435.34,0,Movil,5.75
+459,Hombre,20,Gijón,171.13,0,PC,6.17
+460,Mujer,26,Vigo,446.9,0,Movil,6.09
+461,Hombre,45,Vigo,217.22,1,PC,3.32
+462,Mujer,36,Valladolid,335.94,1,PC,6.13
+463,Mujer,36,Palma,275.97,1,PC,4.77
+464,Mujer,27,Sevilla,400.6,1,Movil,6.96
+465,Mujer,36,Barcelona,343.55,1,Movil,4.78
+466,Hombre,56,Sevilla,316.2,1,Movil,4.27
+467,Mujer,26,Alicante,417.88,0,PC,6.13
+468,Mujer,23,Alicante,309.31,0,PC,5.82
+469,Mujer,65,Vigo,488.6,1,Movil,5.62
+470,Mujer,30,Malaga,248.01,1,PC,4.93
+471,Hombre,28,Murcia,117.31,0,Movil,6.39
+472,Hombre,39,Gijón,248.22,1,Movil,2.95
+473,Mujer,51,Sevilla,216.68,0,PC,2.48
+474,Mujer,44,Malaga,338.86,0,Movil,5.58
+475,Mujer,42,Murcia,490.98,1,PC,1.03
+476,Mujer,60,Madrid ,36.47,0,PC,2.27
+477,Mujer,42,Palma,273.68,0,PC,2.13
+478,Mujer,51,Malaga,10.52,1,Movil,5.07
+479,Mujer,45,Cordoba,222.02,1,Movil,2.95
+480,Mujer,53,Vigo,321.59,0,Movil,5.46
+481,Hombre,26,Las Palamas de GC,257.11,1,PC,2.46
+482,Mujer,19,Madrid ,99.99,1,Movil,4.18
+483,Mujer,20,Bilbao,198.64,0,PC,3.17
+484,Hombre,20,Alicante,8.9,1,Movil,0.81
+485,Mujer,51,Barcelona,103.29,1,PC,3.47
+486,Mujer,42,Zaragoza,113.45,1,Movil,1.03
+487,Mujer,61,Valencia,158.49,1,Movil,4.29
+488,Hombre,42,Palma,355.88,1,PC,4.95
+489,Mujer,27,Zaragoza,414.31,1,Movil,4.84
+490,Hombre,51,Bilbao,121.04,0,Movil,2.41
+491,Hombre,28,Bilbao,177.64,0,Movil,6.63
+492,Hombre,23,Sevilla,468.14,1,Movil,4.8
+493,Mujer,28,Murcia,181.92,1,PC,2.65
+494,Mujer,56,Las Palamas de GC,193.44,0,Movil,0.78
+495,Hombre,49,Valencia,454.04,0,PC,1.18
+496,Mujer,43,Valencia,497.09,0,PC,4.85
+497,Hombre,35,Zaragoza,247.47,1,PC,4.3
+498,Hombre,44,Madrid ,9.45,1,Movil,1.8
+499,Hombre,34,Vigo,255.55,0,Movil,1.8
+500,Mujer,24,Valencia,328.24,1,Movil,4.37
